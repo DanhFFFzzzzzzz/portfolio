@@ -3,10 +3,8 @@ import { Grade } from "@mui/icons-material";
 export const Bio = {
   name: "Danh",
   roles: [
-    "Full Stack Developer",
+    "Frontend Developer",
     "Android Developer",
-    "UI/UX Designer",
-    "Programmer",
   ],
   description:
     "I am a programmer currently interning, hoping to achieve high results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -127,9 +125,8 @@ export const experiences = [
   
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend Engineer Intern",
-    company: "Neurobit",
+    company: "Golbal Aspire",
     date: "Jan 2025 - Present",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
@@ -140,7 +137,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    
   },
   
 ];
